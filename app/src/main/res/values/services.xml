@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="services_array">
+        <item>1. Painting, Drawing, and Sculpturing</item>
+        <item>2. Plumbing</item>
+        <item>3. Photography</item>
+        <item>4. Carpentry</item>
+        <item>5. Barbering</item>
+        <item>6. Hairdressing</item>
+        <item>7. Make-up</item>
+        <item>8. Floor tilling</item>
+        <item>9. Manicure</item>
+        <item>10. Cooking</item>
+        <item>11. Cake Baking</item>
+        <item>12. Bread Making</item>
+        <item>13. Fashion Designing</item>
+        <item>14. Bead Making</item>
+        <item>15. Generator Repair</item>
+        <item>16. Solar Power Installation</item>
+        <item>17. Shoe Making</item>
+        <item>18. Handbag Making</item>
+        <item>19. Laptop Repair</item>
+        <item>20. Welding</item>
+        <item>21. House Painting</item>
+        <item>22. Aluminum Works</item>
+        <item>23. Furniture</item>
+        <item>24. Block Making</item>
+        <item>25. Interlock Stones Making</item>
+        <item>26. Snacks Making</item>
+        <item>27. Car Mechanic</item>
+        <item>28. Air Conditioner Repair</item>
+        <item>29. Electrician</item>
+        <item>30. Car AC Repair</item>
+        <item>31. Phone Repair</item>
+        <item>32. Hat making</item>
+        <item>33. Printing Press</item>
+        <item>34. Videography</item>
+        <item>35. Blogging and SEO</item>
+        <item>36. Graphic Design</item>
+        <item>37. Wrist Watches Repair</item>
+        <item>38. Interior Decoration</item>
+        <item>39. Laptop Repair</item>
+        <item>40. Beads Making</item>
+        <item>41. Fancy Brick Making</item>
+    </string-array>
+</resources>

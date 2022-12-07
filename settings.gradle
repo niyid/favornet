@@ -1,0 +1,26 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://plugins.gradle.org/m2/" }
+        maven { url 'https://jitpack.io' }
+    }
+}
+
+//TODO Change to point at fork - https://github.com/niyid/kotlin-networking-p2p
+rootProject.name = "FavorNET"
+include ':app'
+include ':ipv8'
+include ':demo-android'
+include ':ipv8-jvm'
+include ':tracker'
+include ':ipv8-android'
+include ':demo-jvm'
