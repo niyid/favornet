@@ -1,4 +1,4 @@
-# favornet
+# FavorNET
 FavorNET is a professional network where you can search for any kind of service you need - mechanic, plumber, accountant, electrician, etc
 
 The network is decentralized (p2p) and hierarchical. No central storage of user information. It uses the kotlin-ipv8 library p2p functionality.
